@@ -1,0 +1,7 @@
+4;no;No Pets;Studio;NDG;1400;Fire place;3450 Monkland
+4;no;Dog(s);More than 5 1/2;Lower Westmount;900;Laundromat;8239 Mackenzie
+2;yes;No Pets;Studio;Downtown;1400;Fire place;1738 Rue de Bleury
+1;no;No Pets;4 1/2;NDG;500;Laundromat;4983 Rue Rosedale
+3;yes;Cat(s);Studio;West Island;900;Outdoor Parking;5618 Rue Lafford
+1;no;Dog(s);3 1/2;Lower Westmount;1300;Indoor Parking;7845 Rue Bedford
+4;no;No Pets;More than 5 1/2;East end of Island;1000;Fire place;1564 Rue Thierry
